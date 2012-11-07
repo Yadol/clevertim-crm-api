@@ -7,6 +7,18 @@ The API follows the REST priciples where each resource has its own URL (e.g.: ht
 The input and output data is in JSON format.
 Throughout this documentation, curl is used to exemplify the API usage.
 
+API Endpoints
+=============
+
+- [Contacts](https://github.com/clevertim/clevertim-crm-api/blob/master/resources/contact.md)
+- [Companies](https://github.com/clevertim/clevertim-crm-api/blob/master/resources/company.md)
+- [Cases](https://github.com/clevertim/clevertim-crm-api/blob/master/resources/case.md)
+- [Opportunities](https://github.com/clevertim/clevertim-crm-api/blob/master/resources/opportunity.md)
+- [Tasks](https://github.com/clevertim/clevertim-crm-api/blob/master/resources/task.md)
+- [Notes](https://github.com/clevertim/clevertim-crm-api/blob/master/resources/note.md)
+- [Comments](https://github.com/clevertim/clevertim-crm-api/blob/master/resources/comment.md)
+- [Custom fields](https://github.com/clevertim/clevertim-crm-api/blob/master/resources/customfield.md)
+
 Authorization
 =============
 
