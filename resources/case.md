@@ -5,15 +5,15 @@ Json format
 -----------
 
     {
-        'id': 1,
-        'name': 'Case 1',
-        'description': 'this is an example of a case',
-        'tasks': [3, 2],
-        'tags': ['case', 'support', 'open'],
-        'notes': [4, 3],
-        'leadUser': 5,
-        'cf': {'1': '2012-11-22'},
-        'cust': 34
+        "id": 1,
+        "name": "Case 1",
+        "description": "this is an example of a case",
+        "tasks": [3, 2],
+        "tags": ["case", "support", "open"],
+        "notes": [4, 3],
+        "leadUser": 5,
+        "cf": {"1": "2012-11-22"},
+        "cust": 34
     }
 
 The ids above point to the respective tasks, notes, customer and custom fields associated with the case.
@@ -49,3 +49,7 @@ Delete an existing case
 -----------------------
 
     curl -u AKJHjjsdBNhkdjfdnbsdjfDJKHZ123:X -X DELETE -d '{"name":"New case 2"}' https://www.clevertim.com/case/367
+    
+
+Find it difficult to use the API?
+Help us improve our [small business CRM](http://www.clevertim.com) API by sending us your feedback and suggestions.
