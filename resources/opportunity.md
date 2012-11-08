@@ -49,7 +49,7 @@ Add a new opportunity
 
     curl -u AKJHjjsdBNhkdjfdnbsdjfDJKHZ123:X -H "Content-Type: application/json" -X POST -d '{"name":"Sell more"}' https://www.clevertim.com/opportunity
 	
-At a minimum, provide either the first name or the last name.
+At a minimum, provide the opportunity name.
 
 Update an existing opportunity
 ------------------------------
