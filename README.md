@@ -2,7 +2,7 @@ Clevertim CRM API
 =================
 
 Clevertim.com is an easy to use, easy to learn, [web based small business CRM](http://www.clevertim.com). This API allows users to connect and access their CRM data programatically.
-The API follows the REST priciples where each resource has its own URL (e.g.: http://www.clevertim.com/api/contact/3) and it is manipulated via the four HTTP verbs: GET, POST, PUT and DELETE.
+The API follows the REST priciples where each resource has its own URL and it is manipulated via the four HTTP verbs: GET, POST, PUT and DELETE.
 
 The input and output data is in JSON format.
 Throughout this documentation, curl is used to exemplify the API usage.
