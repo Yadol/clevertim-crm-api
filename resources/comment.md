@@ -46,3 +46,5 @@ Delete an existing comment
 --------------------------
 
     curl -u AKJHjjsdBNhkdjfdnbsdjfDJKHZ123:X -X DELETE -d '{"id":1}' https://www.clevertim.com/comment/3
+
+Ran into problems? We're always looking for feedback and suggestions on how to make our [small business CRM](http://www.clevertim.com) API easier to use.
